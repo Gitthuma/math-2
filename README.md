@@ -12,3 +12,5 @@ Try updating the live code below to recreate the finished example, following the
 4. The value of finalNumber needs to be 10.42. Go back and update the original calculations you were provided with so that they give this final result. Don't update the numbers or the operators.
 
 Ref: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Test_your_skills:_Math
+
+Live web: https://gitthuma.github.io/math-2/
